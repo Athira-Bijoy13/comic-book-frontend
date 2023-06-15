@@ -1,0 +1,25 @@
+.homepage-container{
+    margin-left: 80px;
+}
+.heading{
+    text-align: center;
+}
+.upload-btn{
+    padding-top: 30px;
+}
+.audio-upload{
+
+    padding-top: 30px;
+
+}
+.file-input{
+    font-size: larger;
+}
+.loading-div{
+    display: flex;
+    font-size: 32px;
+    height: 100vh;
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
+}
